@@ -1,0 +1,13 @@
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.deps.json
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.dll
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\bin\Debug\netstandard2.0\ref\Aplicacion.dll
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\bin\Debug\netstandard2.0\Aplicacion.pdb
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.AssemblyInfo.cs
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.dll
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\ref\Aplicacion.dll
+C:\Users\ariel\Desktop\proyectos\xamarin AGR\Aplicacion\Aplicacion\Aplicacion\obj\Debug\netstandard2.0\Aplicacion.pdb
