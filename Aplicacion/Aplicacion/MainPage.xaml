@@ -5,15 +5,54 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Aplicacion.MainPage">
+    <ScrollView>
+        <Grid RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
 
-    <StackLayout>
-        <Frame BackgroundColor="Gray">
-            <Label Text="welcome" HorizontalOptions="Center" TextColor="white"></Label>
-        </Frame>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms! aqui estamos comenzando" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+            <BoxView BackgroundColor="Aqua" HeightRequest="120" Grid.Row="0"></BoxView>
+            <Label Text="welcome to xamarin forms" Margin="30,10,30,10" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" FontSize="Title" Grid.Row="0"></Label>
+            <Label Text="start develping now" Margin="30,10,30,10" VerticalOptions="Start" FontSize="Title" Grid.Row="1"></Label>
+            <Label Text="mis cambios para mi xaml" Margin="30,10,30,10" VerticalOptions="CenterAndExpand" Grid.Row="2"></Label>
+            <Label FontSize="16" Margin="30,10,30,10" VerticalOptions="Start" Grid.Row="3">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="leer mas"></Span>
+                            <Span Text="https:google.com" FontAttributes="Bold"></Span>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <StackLayout Grid.Row="4" Padding="0,10">
+                <Label Text="my new label"></Label>
+                <Button Text="mi boton" WidthRequest="100" HorizontalOptions="Center" BackgroundColor="blue" TextColor="White"></Button>
+                <Frame Margin="10" BorderColor="Black" CornerRadius="8">
+                    <Grid>
+                        <Label Text="mi texto en el frame 1" Grid.Row="0"/>
+                        <Label Text="mi texto en el frame 2" Grid.Row="1"/>
+                        <Label Text="mi texto en el frame 3" Grid.Row="2"/>
+                        <Label Text="mi texto en el frame" Grid.Row="3"/>
+                        <Label Text="mi texto en el frame" Grid.Row="4"/>
+                        <Label Text="mi texto en el frame" Grid.Row="5"/>
+                        <Label Text="mi texto en el frame" Grid.Row="6"/>
+                        <Label Text="mi texto en el frame" Grid.Row="7"/>
+                        <Label Text="mi texto en el frame" Grid.Row="8"/>
+                        <Label Text="mi texto en el frame" Grid.Row="9"/>
+                        <Label Text="mi texto en el frame" Grid.Row="10"/>
+                        <Label Text="mi texto en el frame" Grid.Row="11"/>
+                        <Label Text="mi texto en el frame" Grid.Row="12"/>
+                    </Grid>
+                </Frame>
+            </StackLayout>
+        </Grid>
+    </ScrollView>
+
+
 
 </ContentPage>
